@@ -1,0 +1,15 @@
+C:\Users\x\source\repos\ForeachAndList\Array Övning\bin\Debug\net5.0\Array Övning.exe
+C:\Users\x\source\repos\ForeachAndList\Array Övning\bin\Debug\net5.0\Array Övning.deps.json
+C:\Users\x\source\repos\ForeachAndList\Array Övning\bin\Debug\net5.0\Array Övning.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\Array Övning\bin\Debug\net5.0\Array Övning.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\Array Övning\bin\Debug\net5.0\Array Övning.dll
+C:\Users\x\source\repos\ForeachAndList\Array Övning\bin\Debug\net5.0\ref\Array Övning.dll
+C:\Users\x\source\repos\ForeachAndList\Array Övning\bin\Debug\net5.0\Array Övning.pdb
+C:\Users\x\source\repos\ForeachAndList\Array Övning\obj\Debug\net5.0\Array Övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\Array Övning\obj\Debug\net5.0\Array Övning.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\Array Övning\obj\Debug\net5.0\Array Övning.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\Array Övning\obj\Debug\net5.0\Array Övning.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\Array Övning\obj\Debug\net5.0\Array Övning.dll
+C:\Users\x\source\repos\ForeachAndList\Array Övning\obj\Debug\net5.0\ref\Array Övning.dll
+C:\Users\x\source\repos\ForeachAndList\Array Övning\obj\Debug\net5.0\Array Övning.pdb
+C:\Users\x\source\repos\ForeachAndList\Array Övning\obj\Debug\net5.0\Array Övning.genruntimeconfig.cache

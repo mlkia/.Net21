@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\bin\Debug\net5.0\RandomVärde.exe
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\bin\Debug\net5.0\RandomVärde.deps.json
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\bin\Debug\net5.0\RandomVärde.runtimeconfig.json
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\bin\Debug\net5.0\RandomVärde.runtimeconfig.dev.json
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\bin\Debug\net5.0\RandomVärde.dll
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\bin\Debug\net5.0\ref\RandomVärde.dll
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\bin\Debug\net5.0\RandomVärde.pdb
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\obj\Debug\net5.0\RandomVärde.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\obj\Debug\net5.0\RandomVärde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\obj\Debug\net5.0\RandomVärde.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\obj\Debug\net5.0\RandomVärde.AssemblyInfo.cs
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\obj\Debug\net5.0\RandomVärde.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\obj\Debug\net5.0\RandomVärde.dll
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\obj\Debug\net5.0\ref\RandomVärde.dll
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\obj\Debug\net5.0\RandomVärde.pdb
+C:\Users\x\source\repos\Inlämninsuppgift_01\RandomVärde\obj\Debug\net5.0\RandomVärde.genruntimeconfig.cache

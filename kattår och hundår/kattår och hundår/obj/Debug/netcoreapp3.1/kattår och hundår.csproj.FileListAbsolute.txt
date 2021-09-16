@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\bin\Debug\netcoreapp3.1\kattår och hundår.exe
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\bin\Debug\netcoreapp3.1\kattår och hundår.deps.json
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\bin\Debug\netcoreapp3.1\kattår och hundår.runtimeconfig.json
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\bin\Debug\netcoreapp3.1\kattår och hundår.runtimeconfig.dev.json
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\bin\Debug\netcoreapp3.1\kattår och hundår.dll
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\bin\Debug\netcoreapp3.1\kattår och hundår.pdb
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\obj\Debug\netcoreapp3.1\kattår och hundår.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\obj\Debug\netcoreapp3.1\kattår och hundår.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\obj\Debug\netcoreapp3.1\kattår och hundår.AssemblyInfo.cs
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\obj\Debug\netcoreapp3.1\kattår och hundår.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\obj\Debug\netcoreapp3.1\kattår och hundår.dll
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\obj\Debug\netcoreapp3.1\kattår och hundår.pdb
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\obj\Debug\netcoreapp3.1\kattår och hundår.genruntimeconfig.cache
+C:\Users\x\source\repos\kattår och hundår\kattår och hundår\obj\Debug\netcoreapp3.1\kattår och hundår.csproj.AssemblyReference.cache

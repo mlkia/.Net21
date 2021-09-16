@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\Metoder\Långbord\bin\Debug\net5.0\Långbord.exe
+C:\Users\x\source\repos\Metoder\Långbord\bin\Debug\net5.0\Långbord.deps.json
+C:\Users\x\source\repos\Metoder\Långbord\bin\Debug\net5.0\Långbord.runtimeconfig.json
+C:\Users\x\source\repos\Metoder\Långbord\bin\Debug\net5.0\Långbord.runtimeconfig.dev.json
+C:\Users\x\source\repos\Metoder\Långbord\bin\Debug\net5.0\Långbord.dll
+C:\Users\x\source\repos\Metoder\Långbord\bin\Debug\net5.0\ref\Långbord.dll
+C:\Users\x\source\repos\Metoder\Långbord\bin\Debug\net5.0\Långbord.pdb
+C:\Users\x\source\repos\Metoder\Långbord\obj\Debug\net5.0\Långbord.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\Metoder\Långbord\obj\Debug\net5.0\Långbord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\Metoder\Långbord\obj\Debug\net5.0\Långbord.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\Metoder\Långbord\obj\Debug\net5.0\Långbord.AssemblyInfo.cs
+C:\Users\x\source\repos\Metoder\Långbord\obj\Debug\net5.0\Långbord.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Metoder\Långbord\obj\Debug\net5.0\Långbord.dll
+C:\Users\x\source\repos\Metoder\Långbord\obj\Debug\net5.0\ref\Långbord.dll
+C:\Users\x\source\repos\Metoder\Långbord\obj\Debug\net5.0\Långbord.pdb
+C:\Users\x\source\repos\Metoder\Långbord\obj\Debug\net5.0\Långbord.genruntimeconfig.cache

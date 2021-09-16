@@ -1,0 +1,15 @@
+C:\Users\x\source\repos\ForeachAndList\QueueList\bin\Debug\net5.0\QueueList.exe
+C:\Users\x\source\repos\ForeachAndList\QueueList\bin\Debug\net5.0\QueueList.deps.json
+C:\Users\x\source\repos\ForeachAndList\QueueList\bin\Debug\net5.0\QueueList.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\QueueList\bin\Debug\net5.0\QueueList.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\QueueList\bin\Debug\net5.0\QueueList.dll
+C:\Users\x\source\repos\ForeachAndList\QueueList\bin\Debug\net5.0\ref\QueueList.dll
+C:\Users\x\source\repos\ForeachAndList\QueueList\bin\Debug\net5.0\QueueList.pdb
+C:\Users\x\source\repos\ForeachAndList\QueueList\obj\Debug\net5.0\QueueList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\QueueList\obj\Debug\net5.0\QueueList.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\QueueList\obj\Debug\net5.0\QueueList.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\QueueList\obj\Debug\net5.0\QueueList.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\QueueList\obj\Debug\net5.0\QueueList.dll
+C:\Users\x\source\repos\ForeachAndList\QueueList\obj\Debug\net5.0\ref\QueueList.dll
+C:\Users\x\source\repos\ForeachAndList\QueueList\obj\Debug\net5.0\QueueList.pdb
+C:\Users\x\source\repos\ForeachAndList\QueueList\obj\Debug\net5.0\QueueList.genruntimeconfig.cache

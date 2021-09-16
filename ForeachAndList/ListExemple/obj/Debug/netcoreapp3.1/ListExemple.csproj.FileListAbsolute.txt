@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\ForeachAndList\ListExemple\obj\Debug\netcoreapp3.1\ListExemple.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\ForeachAndList\ListExemple\obj\Debug\netcoreapp3.1\ListExemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\ListExemple\obj\Debug\netcoreapp3.1\ListExemple.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\ListExemple\obj\Debug\netcoreapp3.1\ListExemple.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\ListExemple\obj\Debug\netcoreapp3.1\ListExemple.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\ListExemple\bin\Debug\netcoreapp3.1\ListExemple.exe
+C:\Users\x\source\repos\ForeachAndList\ListExemple\bin\Debug\netcoreapp3.1\ListExemple.deps.json
+C:\Users\x\source\repos\ForeachAndList\ListExemple\bin\Debug\netcoreapp3.1\ListExemple.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\ListExemple\bin\Debug\netcoreapp3.1\ListExemple.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\ListExemple\bin\Debug\netcoreapp3.1\ListExemple.dll
+C:\Users\x\source\repos\ForeachAndList\ListExemple\bin\Debug\netcoreapp3.1\ListExemple.pdb
+C:\Users\x\source\repos\ForeachAndList\ListExemple\obj\Debug\netcoreapp3.1\ListExemple.dll
+C:\Users\x\source\repos\ForeachAndList\ListExemple\obj\Debug\netcoreapp3.1\ListExemple.pdb
+C:\Users\x\source\repos\ForeachAndList\ListExemple\obj\Debug\netcoreapp3.1\ListExemple.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\bin\Debug\net5.0\DictionaryList.exe
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\bin\Debug\net5.0\DictionaryList.deps.json
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\bin\Debug\net5.0\DictionaryList.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\bin\Debug\net5.0\DictionaryList.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\bin\Debug\net5.0\DictionaryList.dll
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\bin\Debug\net5.0\ref\DictionaryList.dll
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\bin\Debug\net5.0\DictionaryList.pdb
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\obj\Debug\net5.0\DictionaryList.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\obj\Debug\net5.0\DictionaryList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\obj\Debug\net5.0\DictionaryList.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\obj\Debug\net5.0\DictionaryList.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\obj\Debug\net5.0\DictionaryList.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\obj\Debug\net5.0\DictionaryList.dll
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\obj\Debug\net5.0\ref\DictionaryList.dll
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\obj\Debug\net5.0\DictionaryList.pdb
+C:\Users\x\source\repos\ForeachAndList\DictionaryList\obj\Debug\net5.0\DictionaryList.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\Metoder\Method_Retur\bin\Debug\net5.0\Method_Retur.exe
+C:\Users\x\source\repos\Metoder\Method_Retur\bin\Debug\net5.0\Method_Retur.deps.json
+C:\Users\x\source\repos\Metoder\Method_Retur\bin\Debug\net5.0\Method_Retur.runtimeconfig.json
+C:\Users\x\source\repos\Metoder\Method_Retur\bin\Debug\net5.0\Method_Retur.runtimeconfig.dev.json
+C:\Users\x\source\repos\Metoder\Method_Retur\bin\Debug\net5.0\Method_Retur.dll
+C:\Users\x\source\repos\Metoder\Method_Retur\bin\Debug\net5.0\ref\Method_Retur.dll
+C:\Users\x\source\repos\Metoder\Method_Retur\bin\Debug\net5.0\Method_Retur.pdb
+C:\Users\x\source\repos\Metoder\Method_Retur\obj\Debug\net5.0\Method_Retur.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\Metoder\Method_Retur\obj\Debug\net5.0\Method_Retur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\Metoder\Method_Retur\obj\Debug\net5.0\Method_Retur.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\Metoder\Method_Retur\obj\Debug\net5.0\Method_Retur.AssemblyInfo.cs
+C:\Users\x\source\repos\Metoder\Method_Retur\obj\Debug\net5.0\Method_Retur.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Metoder\Method_Retur\obj\Debug\net5.0\Method_Retur.dll
+C:\Users\x\source\repos\Metoder\Method_Retur\obj\Debug\net5.0\ref\Method_Retur.dll
+C:\Users\x\source\repos\Metoder\Method_Retur\obj\Debug\net5.0\Method_Retur.pdb
+C:\Users\x\source\repos\Metoder\Method_Retur\obj\Debug\net5.0\Method_Retur.genruntimeconfig.cache

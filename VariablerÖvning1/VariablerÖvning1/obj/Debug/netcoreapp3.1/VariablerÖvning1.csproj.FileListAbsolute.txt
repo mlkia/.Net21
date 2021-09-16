@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\bin\Debug\netcoreapp3.1\VariablerÖvning1.exe
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\bin\Debug\netcoreapp3.1\VariablerÖvning1.deps.json
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\bin\Debug\netcoreapp3.1\VariablerÖvning1.runtimeconfig.json
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\bin\Debug\netcoreapp3.1\VariablerÖvning1.runtimeconfig.dev.json
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\bin\Debug\netcoreapp3.1\VariablerÖvning1.dll
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\bin\Debug\netcoreapp3.1\VariablerÖvning1.pdb
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\obj\Debug\netcoreapp3.1\VariablerÖvning1.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\obj\Debug\netcoreapp3.1\VariablerÖvning1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\obj\Debug\netcoreapp3.1\VariablerÖvning1.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\obj\Debug\netcoreapp3.1\VariablerÖvning1.AssemblyInfo.cs
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\obj\Debug\netcoreapp3.1\VariablerÖvning1.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\obj\Debug\netcoreapp3.1\VariablerÖvning1.dll
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\obj\Debug\netcoreapp3.1\VariablerÖvning1.pdb
+C:\Users\x\source\repos\VariablerÖvning1\VariablerÖvning1\obj\Debug\netcoreapp3.1\VariablerÖvning1.genruntimeconfig.cache

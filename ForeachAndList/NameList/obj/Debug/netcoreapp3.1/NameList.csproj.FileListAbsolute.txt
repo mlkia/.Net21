@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\ForeachAndList\NameList\bin\Debug\netcoreapp3.1\NameList.exe
+C:\Users\x\source\repos\ForeachAndList\NameList\bin\Debug\netcoreapp3.1\NameList.deps.json
+C:\Users\x\source\repos\ForeachAndList\NameList\bin\Debug\netcoreapp3.1\NameList.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\NameList\bin\Debug\netcoreapp3.1\NameList.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\NameList\bin\Debug\netcoreapp3.1\NameList.dll
+C:\Users\x\source\repos\ForeachAndList\NameList\bin\Debug\netcoreapp3.1\NameList.pdb
+C:\Users\x\source\repos\ForeachAndList\NameList\obj\Debug\netcoreapp3.1\NameList.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\ForeachAndList\NameList\obj\Debug\netcoreapp3.1\NameList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\NameList\obj\Debug\netcoreapp3.1\NameList.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\NameList\obj\Debug\netcoreapp3.1\NameList.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\NameList\obj\Debug\netcoreapp3.1\NameList.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\NameList\obj\Debug\netcoreapp3.1\NameList.dll
+C:\Users\x\source\repos\ForeachAndList\NameList\obj\Debug\netcoreapp3.1\NameList.pdb
+C:\Users\x\source\repos\ForeachAndList\NameList\obj\Debug\netcoreapp3.1\NameList.genruntimeconfig.cache

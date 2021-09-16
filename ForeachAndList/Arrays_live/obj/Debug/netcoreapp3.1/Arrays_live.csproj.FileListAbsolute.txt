@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\bin\Debug\netcoreapp3.1\Arrays_live.exe
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\bin\Debug\netcoreapp3.1\Arrays_live.deps.json
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\bin\Debug\netcoreapp3.1\Arrays_live.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\bin\Debug\netcoreapp3.1\Arrays_live.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\bin\Debug\netcoreapp3.1\Arrays_live.dll
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\bin\Debug\netcoreapp3.1\Arrays_live.pdb
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\obj\Debug\netcoreapp3.1\Arrays_live.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\obj\Debug\netcoreapp3.1\Arrays_live.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\obj\Debug\netcoreapp3.1\Arrays_live.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\obj\Debug\netcoreapp3.1\Arrays_live.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\obj\Debug\netcoreapp3.1\Arrays_live.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\obj\Debug\netcoreapp3.1\Arrays_live.dll
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\obj\Debug\netcoreapp3.1\Arrays_live.pdb
+C:\Users\x\source\repos\ForeachAndList\Arrays_live\obj\Debug\netcoreapp3.1\Arrays_live.genruntimeconfig.cache

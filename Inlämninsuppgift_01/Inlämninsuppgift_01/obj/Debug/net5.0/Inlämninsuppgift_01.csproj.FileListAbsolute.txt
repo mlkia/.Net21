@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\bin\Debug\net5.0\Inlämninsuppgift_01.exe
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\bin\Debug\net5.0\Inlämninsuppgift_01.deps.json
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\bin\Debug\net5.0\Inlämninsuppgift_01.runtimeconfig.json
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\bin\Debug\net5.0\Inlämninsuppgift_01.runtimeconfig.dev.json
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\bin\Debug\net5.0\Inlämninsuppgift_01.dll
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\bin\Debug\net5.0\ref\Inlämninsuppgift_01.dll
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\bin\Debug\net5.0\Inlämninsuppgift_01.pdb
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\obj\Debug\net5.0\Inlämninsuppgift_01.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\obj\Debug\net5.0\Inlämninsuppgift_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\obj\Debug\net5.0\Inlämninsuppgift_01.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\obj\Debug\net5.0\Inlämninsuppgift_01.AssemblyInfo.cs
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\obj\Debug\net5.0\Inlämninsuppgift_01.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\obj\Debug\net5.0\Inlämninsuppgift_01.dll
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\obj\Debug\net5.0\ref\Inlämninsuppgift_01.dll
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\obj\Debug\net5.0\Inlämninsuppgift_01.pdb
+C:\Users\x\source\repos\Inlämninsuppgift_01\Inlämninsuppgift_01\obj\Debug\net5.0\Inlämninsuppgift_01.genruntimeconfig.cache

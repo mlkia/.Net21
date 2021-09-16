@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\ForeachAndList\array_List\bin\Debug\net5.0\array_List.exe
+C:\Users\x\source\repos\ForeachAndList\array_List\bin\Debug\net5.0\array_List.deps.json
+C:\Users\x\source\repos\ForeachAndList\array_List\bin\Debug\net5.0\array_List.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\array_List\bin\Debug\net5.0\array_List.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\array_List\bin\Debug\net5.0\array_List.dll
+C:\Users\x\source\repos\ForeachAndList\array_List\bin\Debug\net5.0\ref\array_List.dll
+C:\Users\x\source\repos\ForeachAndList\array_List\bin\Debug\net5.0\array_List.pdb
+C:\Users\x\source\repos\ForeachAndList\array_List\obj\Debug\net5.0\array_List.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\ForeachAndList\array_List\obj\Debug\net5.0\array_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\array_List\obj\Debug\net5.0\array_List.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\array_List\obj\Debug\net5.0\array_List.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\array_List\obj\Debug\net5.0\array_List.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\array_List\obj\Debug\net5.0\array_List.dll
+C:\Users\x\source\repos\ForeachAndList\array_List\obj\Debug\net5.0\ref\array_List.dll
+C:\Users\x\source\repos\ForeachAndList\array_List\obj\Debug\net5.0\array_List.pdb
+C:\Users\x\source\repos\ForeachAndList\array_List\obj\Debug\net5.0\array_List.genruntimeconfig.cache

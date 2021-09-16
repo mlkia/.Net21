@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\bin\Debug\netcoreapp3.1\forLoopContinue.exe
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\bin\Debug\netcoreapp3.1\forLoopContinue.deps.json
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\bin\Debug\netcoreapp3.1\forLoopContinue.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\bin\Debug\netcoreapp3.1\forLoopContinue.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\bin\Debug\netcoreapp3.1\forLoopContinue.dll
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\bin\Debug\netcoreapp3.1\forLoopContinue.pdb
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\obj\Debug\netcoreapp3.1\forLoopContinue.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\obj\Debug\netcoreapp3.1\forLoopContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\obj\Debug\netcoreapp3.1\forLoopContinue.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\obj\Debug\netcoreapp3.1\forLoopContinue.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\obj\Debug\netcoreapp3.1\forLoopContinue.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\obj\Debug\netcoreapp3.1\forLoopContinue.dll
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\obj\Debug\netcoreapp3.1\forLoopContinue.pdb
+C:\Users\x\source\repos\ForeachAndList\forLoopContinue\obj\Debug\netcoreapp3.1\forLoopContinue.genruntimeconfig.cache

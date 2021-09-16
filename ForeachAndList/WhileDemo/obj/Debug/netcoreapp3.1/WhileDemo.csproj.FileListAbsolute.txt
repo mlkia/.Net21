@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\bin\Debug\netcoreapp3.1\WhileDemo.exe
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\bin\Debug\netcoreapp3.1\WhileDemo.deps.json
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\bin\Debug\netcoreapp3.1\WhileDemo.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\bin\Debug\netcoreapp3.1\WhileDemo.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\bin\Debug\netcoreapp3.1\WhileDemo.dll
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\bin\Debug\netcoreapp3.1\WhileDemo.pdb
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\obj\Debug\netcoreapp3.1\WhileDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\obj\Debug\netcoreapp3.1\WhileDemo.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\obj\Debug\netcoreapp3.1\WhileDemo.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\obj\Debug\netcoreapp3.1\WhileDemo.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\obj\Debug\netcoreapp3.1\WhileDemo.dll
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\obj\Debug\netcoreapp3.1\WhileDemo.pdb
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\obj\Debug\netcoreapp3.1\WhileDemo.genruntimeconfig.cache
+C:\Users\x\source\repos\ForeachAndList\WhileDemo\obj\Debug\netcoreapp3.1\WhileDemo.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\ForeachAndList\StackList\bin\Debug\net5.0\StackList.exe
+C:\Users\x\source\repos\ForeachAndList\StackList\bin\Debug\net5.0\StackList.deps.json
+C:\Users\x\source\repos\ForeachAndList\StackList\bin\Debug\net5.0\StackList.runtimeconfig.json
+C:\Users\x\source\repos\ForeachAndList\StackList\bin\Debug\net5.0\StackList.runtimeconfig.dev.json
+C:\Users\x\source\repos\ForeachAndList\StackList\bin\Debug\net5.0\StackList.dll
+C:\Users\x\source\repos\ForeachAndList\StackList\bin\Debug\net5.0\ref\StackList.dll
+C:\Users\x\source\repos\ForeachAndList\StackList\bin\Debug\net5.0\StackList.pdb
+C:\Users\x\source\repos\ForeachAndList\StackList\obj\Debug\net5.0\StackList.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\ForeachAndList\StackList\obj\Debug\net5.0\StackList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\ForeachAndList\StackList\obj\Debug\net5.0\StackList.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\ForeachAndList\StackList\obj\Debug\net5.0\StackList.AssemblyInfo.cs
+C:\Users\x\source\repos\ForeachAndList\StackList\obj\Debug\net5.0\StackList.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\ForeachAndList\StackList\obj\Debug\net5.0\StackList.dll
+C:\Users\x\source\repos\ForeachAndList\StackList\obj\Debug\net5.0\ref\StackList.dll
+C:\Users\x\source\repos\ForeachAndList\StackList\obj\Debug\net5.0\StackList.pdb
+C:\Users\x\source\repos\ForeachAndList\StackList\obj\Debug\net5.0\StackList.genruntimeconfig.cache

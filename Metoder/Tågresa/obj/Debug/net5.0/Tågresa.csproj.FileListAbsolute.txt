@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\Metoder\Tågresa\bin\Debug\net5.0\Tågresa.exe
+C:\Users\x\source\repos\Metoder\Tågresa\bin\Debug\net5.0\Tågresa.deps.json
+C:\Users\x\source\repos\Metoder\Tågresa\bin\Debug\net5.0\Tågresa.runtimeconfig.json
+C:\Users\x\source\repos\Metoder\Tågresa\bin\Debug\net5.0\Tågresa.runtimeconfig.dev.json
+C:\Users\x\source\repos\Metoder\Tågresa\bin\Debug\net5.0\Tågresa.dll
+C:\Users\x\source\repos\Metoder\Tågresa\bin\Debug\net5.0\ref\Tågresa.dll
+C:\Users\x\source\repos\Metoder\Tågresa\bin\Debug\net5.0\Tågresa.pdb
+C:\Users\x\source\repos\Metoder\Tågresa\obj\Debug\net5.0\Tågresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\Metoder\Tågresa\obj\Debug\net5.0\Tågresa.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\Metoder\Tågresa\obj\Debug\net5.0\Tågresa.AssemblyInfo.cs
+C:\Users\x\source\repos\Metoder\Tågresa\obj\Debug\net5.0\Tågresa.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Metoder\Tågresa\obj\Debug\net5.0\Tågresa.dll
+C:\Users\x\source\repos\Metoder\Tågresa\obj\Debug\net5.0\ref\Tågresa.dll
+C:\Users\x\source\repos\Metoder\Tågresa\obj\Debug\net5.0\Tågresa.pdb
+C:\Users\x\source\repos\Metoder\Tågresa\obj\Debug\net5.0\Tågresa.genruntimeconfig.cache
+C:\Users\x\source\repos\Metoder\Tågresa\obj\Debug\net5.0\Tågresa.csproj.AssemblyReference.cache

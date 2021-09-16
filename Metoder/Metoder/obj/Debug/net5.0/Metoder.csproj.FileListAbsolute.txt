@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\Metoder\Metoder\bin\Debug\net5.0\Metoder.exe
+C:\Users\x\source\repos\Metoder\Metoder\bin\Debug\net5.0\Metoder.deps.json
+C:\Users\x\source\repos\Metoder\Metoder\bin\Debug\net5.0\Metoder.runtimeconfig.json
+C:\Users\x\source\repos\Metoder\Metoder\bin\Debug\net5.0\Metoder.runtimeconfig.dev.json
+C:\Users\x\source\repos\Metoder\Metoder\bin\Debug\net5.0\Metoder.dll
+C:\Users\x\source\repos\Metoder\Metoder\bin\Debug\net5.0\ref\Metoder.dll
+C:\Users\x\source\repos\Metoder\Metoder\bin\Debug\net5.0\Metoder.pdb
+C:\Users\x\source\repos\Metoder\Metoder\obj\Debug\net5.0\Metoder.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\Metoder\Metoder\obj\Debug\net5.0\Metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\Metoder\Metoder\obj\Debug\net5.0\Metoder.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\Metoder\Metoder\obj\Debug\net5.0\Metoder.AssemblyInfo.cs
+C:\Users\x\source\repos\Metoder\Metoder\obj\Debug\net5.0\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Metoder\Metoder\obj\Debug\net5.0\Metoder.dll
+C:\Users\x\source\repos\Metoder\Metoder\obj\Debug\net5.0\ref\Metoder.dll
+C:\Users\x\source\repos\Metoder\Metoder\obj\Debug\net5.0\Metoder.pdb
+C:\Users\x\source\repos\Metoder\Metoder\obj\Debug\net5.0\Metoder.genruntimeconfig.cache

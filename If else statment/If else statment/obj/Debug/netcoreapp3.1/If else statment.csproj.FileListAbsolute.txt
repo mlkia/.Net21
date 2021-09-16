@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\If else statment\If else statment\bin\Debug\netcoreapp3.1\If else statment.exe
+C:\Users\x\source\repos\If else statment\If else statment\bin\Debug\netcoreapp3.1\If else statment.deps.json
+C:\Users\x\source\repos\If else statment\If else statment\bin\Debug\netcoreapp3.1\If else statment.runtimeconfig.json
+C:\Users\x\source\repos\If else statment\If else statment\bin\Debug\netcoreapp3.1\If else statment.runtimeconfig.dev.json
+C:\Users\x\source\repos\If else statment\If else statment\bin\Debug\netcoreapp3.1\If else statment.dll
+C:\Users\x\source\repos\If else statment\If else statment\bin\Debug\netcoreapp3.1\If else statment.pdb
+C:\Users\x\source\repos\If else statment\If else statment\obj\Debug\netcoreapp3.1\If else statment.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\If else statment\If else statment\obj\Debug\netcoreapp3.1\If else statment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\If else statment\If else statment\obj\Debug\netcoreapp3.1\If else statment.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\If else statment\If else statment\obj\Debug\netcoreapp3.1\If else statment.AssemblyInfo.cs
+C:\Users\x\source\repos\If else statment\If else statment\obj\Debug\netcoreapp3.1\If else statment.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\If else statment\If else statment\obj\Debug\netcoreapp3.1\If else statment.dll
+C:\Users\x\source\repos\If else statment\If else statment\obj\Debug\netcoreapp3.1\If else statment.pdb
+C:\Users\x\source\repos\If else statment\If else statment\obj\Debug\netcoreapp3.1\If else statment.genruntimeconfig.cache
