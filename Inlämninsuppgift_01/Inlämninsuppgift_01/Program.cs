@@ -59,7 +59,7 @@ namespace Inlämninsuppgift_01
                     for (int i = 0; i < tärningar.Length; i++)
                     {
                         tärningar[i] = randNum.Next(1, 7);
-                        Console.WriteLine(tärningar[i]);
+                        Console.WriteLine($"Tärning {i+1} : [{tärningar[i]}]");
 
                         if (lyckotal == tärningar[i])
                         {
