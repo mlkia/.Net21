@@ -19,7 +19,7 @@ namespace Inlämninsuppgift_01
             {
                 speligen = false;
                 ökaInsats = 0;
-                Console.WriteLine($"Ditt saldo = {konto} pix");
+                Console.WriteLine($"Ditt saldo = [{konto}] pix");
                 
                 
 
@@ -63,21 +63,19 @@ namespace Inlämninsuppgift_01
 
                         if (lyckotal == tärningar[i])
                         {
-
-                            insats += insats;
                             ökaInsats++;
                         }
-
                     }
                    
 
                     if (ökaInsats != 0)
                     {
+                        insats *= (ökaInsats + 1);
                         konto += insats;
                     }else { konto -= insats; }
 
                     
-                    Console.WriteLine($"Ditt saldo {konto} pix");
+                    Console.WriteLine($"Ditt saldo [{konto}] pix");
 
                     Console.WriteLine("Vill du spela igen? Tryck [Y] eller tryck [N] för att avsluta");
                     input = Console.ReadLine();
