@@ -4,88 +4,98 @@ namespace Inlämninsuppgift_01
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int konto = 500;
-            int lyckotal;
-            int insats;
-            int ökaInsats;
-            bool speligen = false;
+            //Grundtat
+            int account  = 500;
+            int luckyNumber;
+            int gambling;
+            int increase;
+            bool playAgain = false;
             string input;
-            int[] tärningar = new int[3]  ;
+            int[] Dice = new int[3];
 
 
             do
             {
-                speligen = false;
-                ökaInsats = 0;
-                Console.WriteLine($"Ditt saldo = [{konto}] pix");
-                
-                
+                playAgain = false;
+                increase = 0;
+                Console.Clear();
 
-                if (konto >= 50)
+                if (account  >= 50)
                 {
+                    //Fråga om insatsen.
+                    DisplayBalance(account );
+                    gambling = AskQuestion("Hur mycket pix vill du satsa? ");
                     
-
-                    Console.WriteLine("Hur mycket pix vill du satsa? ");
-                    string inputInsats = Console.ReadLine();
-                    int.TryParse(inputInsats, out insats);
-
-                    while (insats < 50 || insats > konto)
+                    while (gambling < 50 || gambling > account )
                     {
-
-                        Console.WriteLine($"DU angett fel värde. Ditt insats måste vara minst [50] pix och max [{konto}] pix");
-                        Console.WriteLine("Ange igen hur Hur mycket pix vill du satsa ");
-                        string inputinsatsigen = Console.ReadLine();
-                        int.TryParse(inputinsatsigen, out insats);
+                        Console.WriteLine($"DU angett fel värde. Ditt insats måste vara minst [50] pix och max [{account }] pix");
+                        
+                        gambling = AskQuestion("Ange igen hur Hur mycket pix vill du satsa");
                     }
 
+                    //Fråga om lykotal.
+                    luckyNumber = AskQuestion("Ange ditt Lyckotal:");
 
-                    Console.WriteLine("Ange ditt Lyckotal: ");
-                    string inputLyckotal = Console.ReadLine();
-                    int.TryParse(inputLyckotal, out lyckotal);
-
-                    while (lyckotal < 1 || lyckotal > 6)
+                    while (luckyNumber < 1 || luckyNumber > 6)
                     {
                         Console.WriteLine("Ditt lyckotal måste vara mellan 1 och 6");
-                        Console.WriteLine("Ange ditt lyckotal igen:");
-                        string inputLyckotalIgen = Console.ReadLine();
-                        int.TryParse(inputLyckotalIgen, out lyckotal);
+                        luckyNumber = AskQuestion("Ange ditt Lyckotal igen:");
                     }
 
-
+                    //Skapa, vissa och jämföra tärningar nummer
                     Random randNum = new Random();
 
-                    for (int i = 0; i < tärningar.Length; i++)
+                    for (int i = 0; i < Dice.Length; i++)
                     {
-                        tärningar[i] = randNum.Next(1, 7);
-                        Console.WriteLine($"Tärning {i+1} : [{tärningar[i]}]");
+                        Dice[i] = randNum.Next(1, 7);
+                        Console.WriteLine($"Tärning {i+1} : [{Dice[i]}]");
 
-                        if (lyckotal == tärningar[i])
+                        if (luckyNumber == Dice[i])
                         {
-                            ökaInsats++;
+                            increase++;
                         }
                     }
                    
-
-                    if (ökaInsats != 0)
+                    //Lägga till eller tar bort saldo.
+                    if (increase != 0)
                     {
-                        insats *= (ökaInsats + 1);
-                        konto += insats;
-                    }else { konto -= insats; }
+                        gambling *= (increase + 1);
+                        account  += gambling;
+                    }else  account  -= gambling;
 
-                    
-                    Console.WriteLine($"Ditt saldo [{konto}] pix");
+                    DisplayBalance(account);
 
-                    Console.WriteLine("Vill du spela igen? Tryck [Y] eller tryck [N] för att avsluta");
-                    input = Console.ReadLine();
-                   
-                    speligen = (input.ToUpper() == "Y");
-                }
-                else Console.WriteLine("Gå hem");
+                    //Fråga om spela igen.
+                    if (account >= 50) { 
 
-            } while (speligen);
+                        Console.WriteLine("Vill du spela igen? Tryck [Y] eller tryck [N] för att avsluta");
+                        input = Console.ReadLine();
+                        playAgain = (input.ToUpper() == "Y");
+                    }
+                    else Console.WriteLine("Du får inte spela igen, ditt saldo är mindre än [50] pix");
+            }
+                else Console.WriteLine("Du får inte spela, ditt saldo är mindre än [50] pix");
 
+            } while (playAgain);
+
+        }
+
+        static int AskQuestion(string question)
+        {
+            Console.Write(question);
+            string inputGambling = Console.ReadLine();
+            int.TryParse(inputGambling, out int gambling);
+
+            return gambling;
+        }
+
+         static void DisplayBalance (int balance)
+        {
+            Console.WriteLine("---------------------");
+            Console.WriteLine($"Ditt saldo [{balance}] pix");
+            Console.WriteLine("---------------------");
         }
     }
 }
